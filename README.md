@@ -11,20 +11,21 @@ In order to acquire the necessary data to perform the requested analysis, querie
 
 June:
 
+![June Query](https://github.com/matthewdouglasmartin/surfs_up/blob/main/PNG_Resources/June_Query.png)
 
 December:
 
-
+![December Query](https://github.com/matthewdouglasmartin/surfs_up/blob/main/PNG_Resources/December_Query.png)
 
 Once the queries were established to pull the specific data, the results from these queries were saved into a list and then converted into a Pandas dataframe.  Summary statistics were then provided for each dataframe by performing the .descibe() method on each dataframe.  Below are the summary statistics returned:
 
 June Summary Statistics:
 
-
+![June Query as DF](https://github.com/matthewdouglasmartin/surfs_up/blob/main/PNG_Resources/June_Query_as_DF.png)
 
 December Summary Statistics:
 
-
+![Dec Query as DF](https://github.com/matthewdouglasmartin/surfs_up/blob/main/PNG_Resources/Dec_Query_as_DF.png)
 
 There are three main differences between the weather in June and December, listed below:
 
